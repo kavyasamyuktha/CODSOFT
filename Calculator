@@ -1,4 +1,4 @@
-<!--index.html-->
+//index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,7 +33,8 @@
     <script src="script.js"></script>
 </body>
 </html>
-/* styles.css */
+
+//styles.css
 body {
     display: flex;
     justify-content: center;
@@ -99,6 +100,7 @@ body {
     background-color: #37006a;
     color: #fff;
 }
+
 // script.js
 document.addEventListener('DOMContentLoaded', () => {
     const display = document.getElementById('display');
